@@ -24,4 +24,3 @@
 - [ ] Медиа-запросы должны быть внутри css-файлов. Использование атрибута media тега <link> не рекомендуется.
 
 Основная часть взята от [сюда](http://handleman.ru/12-checklist-for-front-end-developer.html). 
-<input type="checkbox">
