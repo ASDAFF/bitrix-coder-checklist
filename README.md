@@ -23,5 +23,5 @@
 - [ ] JS-обработчики должны вешаться на отдельные классы, за которыми не закреплены стили. К примеру, `js-popup-open`.
 - [ ] Медиа-запросы должны быть внутри css-файлов. Использование атрибута media тега <link> не рекомендуется.
 
-Основная часть взята от [сюда](http://handleman.ru/12-checklist-for-front-end-developer.html).
-<input type="checkbox" name="accept" value="1" checked>
+Основная часть взята от [сюда](http://handleman.ru/12-checklist-for-front-end-developer.html). 
+<input type="checkbox">
